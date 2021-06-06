@@ -3,9 +3,6 @@
  *  Copyright 2021 Tanushka Kommoju
  */
 
-
-
-
 import java.util.Scanner;
 public class CountChar
 {
